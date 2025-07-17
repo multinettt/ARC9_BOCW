@@ -32,9 +32,11 @@ Weapons with links embedded to them are not present here and have their own repo
 - AK-74u     (AKS-74U)
 - **UGR        (APS)**
 
-### Tactical Rifles:
-- M16        (M16A3)           [No Attachments yet]
-- DMR 14     (M14)
+### [Tactical Rifles](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
+- [Type 63](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
+- [M16](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
+- [AUG](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
+- [DMR 14](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
 
 ### Light Machine Guns:
 - M60        (M60E3)           [No Attachments yet]
