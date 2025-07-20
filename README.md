@@ -60,7 +60,7 @@ Weapons with links embedded to them are not present here and have their own repo
 
 ## Personalization:
 
-Personalization by means of camo is currently available on the DMR14. You can grab some cold war camos from these two workshop links below if you'd like.
+Personalization by means of stickers are available for weapons starting from Shotguns(the rest will be added later). Camo support is universal and you can grab some cold war camos from these two workshop links below if you'd like.
 
 [Multiplayer Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989163938)
 
