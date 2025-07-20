@@ -1,7 +1,5 @@
 # ARC9 BOCW
 
-Various random weapons for early in development weapon pack on [ARC9](https://github.com/HaodongMo/ARC-9)
-
 This repository is a pile of work for my ARC9 BOCW Weapons project. These are stuff thats been made whilst learning the new weapon base. New repositories will be made when development of a new weapon pack starts, and content included in this repository will be removed and added to said repositories. This repository is basically where it all began, and when I realized that the pack could not possibly be made under a single addon, I started splitting. From now on, newer weapon packs will start development in their own repositories. This repository will simply stay as weapons that havent had their packs made yet and a main page for easy navigation between my other repositories.
 
 ## You need to have [Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) in order to avoid missing textures, materials and sounds.
