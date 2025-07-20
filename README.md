@@ -37,6 +37,7 @@ Weapons with links embedded to them are not present here and have their own repo
 - [M16](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
 - [AUG](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
 - [DMR 14](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
+- **[CARV.2](https://github.com/multinettt/ARC-9_BOCW_TacticalRiflesDLC)**
 
 ### Light Machine Guns:
 - M60        (M60E3)           [No Attachments yet]
