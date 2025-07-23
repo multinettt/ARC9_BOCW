@@ -24,10 +24,12 @@ Weapons with links embedded to them are not present here and have their own repo
 - **[Grav](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
 - **[Vargo 52](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
 
-### Submachine Guns:
-- MP5        (H&K MP5K)
-- Milano 821 (SOCIMI Type 821) [Not usable, VM Only]
-- AK-74u     (AKS-74U)
+### [Submachine Guns:](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+- [MP5](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+- [Milano 821](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+- [AK-74u](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+- [KSP 45](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+- [Bullfrog](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - **UGR        (APS)**
 
 ### [Tactical Rifles](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
