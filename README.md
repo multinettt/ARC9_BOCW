@@ -30,7 +30,13 @@ Weapons with links embedded to them are not present here and have their own repo
 - [AK-74u](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - [KSP 45](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - [Bullfrog](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- **UGR        (APS)**
+- **[MAC-10](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[LC10](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[PPSh-41](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[OTs 9](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[TEC-9](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[LAPA](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
+- **[UGR](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
 
 ### [Tactical Rifles](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
 - [Type 63](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
