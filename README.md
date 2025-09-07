@@ -24,7 +24,7 @@ Weapons with links embedded to them are not present here and have their own repo
 - **[Grav](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
 - **[Vargo 52](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
 
-### [Submachine Guns:](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
+### [Submachine Guns](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - [MP5](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - [Milano 821](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
 - [AK-74u](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
@@ -48,8 +48,10 @@ Weapons with links embedded to them are not present here and have their own repo
 ### Light Machine Guns:
 - M60        (M60E3)           [No Attachments yet]
 
-### Sniper Rifles:
-- Pellington 703 (Remington 700) [No Attachments yet]
+### [Sniper Rifles](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
+- [Pellington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
+- [LW3 - Tundra](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
+- [M82](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 
 ### [Pistols](https://github.com/multinettt/ARC-9_BOCW_Pistols)
 - [1911](https://github.com/multinettt/ARC-9_BOCW_Pistols)
