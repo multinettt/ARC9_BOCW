@@ -52,6 +52,8 @@ Weapons with links embedded to them are not present here and have their own repo
 - [Pellington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - [LW3 - Tundra](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - [M82](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
+- **[ZRG 20mm](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC)**
+- **[Swiss K31](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC)**
 
 ### [Pistols](https://github.com/multinettt/ARC-9_BOCW_Pistols)
 - [1911](https://github.com/multinettt/ARC-9_BOCW_Pistols)
