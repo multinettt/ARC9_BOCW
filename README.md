@@ -49,7 +49,7 @@ Weapons with links embedded to them are not present here and have their own repo
 - M60        (M60E3)           [No Attachments yet]
 
 ### [Sniper Rifles](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
-- [Pellington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
+- [Pelington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - [LW3 - Tundra](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - [M82](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - **[ZRG 20mm](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC)**
