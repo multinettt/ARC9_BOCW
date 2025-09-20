@@ -45,8 +45,10 @@ Weapons with links embedded to them are not present here and have their own repo
 - [DMR 14](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
 - **[CARV.2](https://github.com/multinettt/ARC-9_BOCW_TacticalRiflesDLC)**
 
-### Light Machine Guns:
-- M60        (M60E3)           [No Attachments yet]
+### [Light Machine Guns](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
+- [Stoner 63](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
+- [RPD](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
+- [M60](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
 
 ### [Sniper Rifles](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
 - [Pelington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
