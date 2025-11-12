@@ -1,15 +1,21 @@
 # ARC9 BOCW
 
-This repository is a pile of work for my ARC9 BOCW Weapons project. These are stuff thats been made whilst learning the new weapon base. New repositories will be made when development of a new weapon pack starts, and content included in this repository will be removed and added to said repositories. This repository is basically where it all began, and when I realized that the pack could not possibly be made under a single addon, I started splitting. From now on, newer weapon packs will start development in their own repositories. This repository will simply stay as weapons that havent had their packs made yet and a main page for easy navigation between my other repositories.
+Welcome to the main guthib page of ARC9 BOCW. Here you can easily navigate between the different weapon class repositories. Do not clone this repo its empty.
 
-## You need to have [Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) in order to avoid missing textures, materials and sounds.
+As of now the arsenal has reached **73%** completion. The remaining classes left to do are **Melee DLC, Launchers, Special and Special DLC**.
+Melee DLC will most likely release **2026.1** while I can't guarantee the others at the moment.
 
-## Customisation is limited without [BOCW Attachments](https://github.com/multinettt/ARC-9_BOCW_Attachments)
+## [BOCW Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) is required.
+
+## Customization is limited without [BOCW Attachments](https://github.com/multinettt/ARC-9_BOCW_Attachments).
 
 ## Weapons List:
-Weapons written in bold are DLC weapons.
 
-Weapons with links embedded to them are not present here and have their own repository.
+Completed weapons:  47
+
+Upcoming weapons:   17
+
+Weapons written in bold are DLC weapons.
 
 ### [Assault Rifles](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
 - [XM4](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
@@ -72,8 +78,9 @@ Weapons with links embedded to them are not present here and have their own repo
 
 ## Personalization:
 
-Personalization by means of stickers are available for weapons starting from Shotguns(the rest will be added later). Camo support is universal and you can grab some cold war camos from these two workshop links below if you'd like.
+### Camo
+- [Multiplayer Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989163938)
+- [Zombies Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989231579)
 
-[Multiplayer Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989163938)
-
-[Zombies Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989231579)
+### Stickers
+Personalization by means of stickers are available for weapons EXCEPT Assault Rifles(and DLC) and Pistols(and DLC).
