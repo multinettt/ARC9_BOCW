@@ -2,8 +2,7 @@
 
 Welcome to the main guthib page of ARC9 BOCW. Here you can easily navigate between the different weapon class repositories. Do not clone this repo its empty.
 
-As of now the arsenal has reached **73%** completion. The remaining classes left to do are **Melee DLC, Launchers, Special and Special DLC**.
-Melee DLC will most likely release **2026.1** while I can't guarantee the others at the moment.
+As of now the arsenal has reached **90%** completion. The remaining classes left to do are **Special DLC and Launchers**.
 
 ## [BOCW Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) is required.
 
@@ -11,9 +10,9 @@ Melee DLC will most likely release **2026.1** while I can't guarantee the others
 
 ## Weapons List:
 
-Completed weapons:  47
+Completed weapons:  59
 
-Upcoming weapons:   17
+Upcoming weapons:   5
 
 Weapons written in bold are DLC weapons.
 
