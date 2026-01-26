@@ -82,4 +82,4 @@ Weapons written in bold are DLC weapons.
 - [Zombies Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989231579)
 
 ### Stickers
-Personalization by means of stickers are available for weapons EXCEPT Assault Rifles(and DLC) and Pistols(and DLC).
+Personalization by means of stickers are available for all weapons.
