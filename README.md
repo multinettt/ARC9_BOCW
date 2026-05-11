@@ -1,8 +1,8 @@
 # ARC9 BOCW
 
-Welcome to the main guthib page of ARC9 BOCW. Here you can easily navigate between the different weapon class repositories. Do not clone this repo its empty.
+Welcome to the main guthib page of ARC9 BOCW. Here you can easily navigate between the different weapon class repositories. Do not clone this repository. It is filled with junk left over from prior bad git practice.
 
-As of now the arsenal has reached **90%** completion. The remaining classes left to do are **Special DLC and Launchers**.
+As of now the arsenal has reached **97%** completion. The remaining class left to do is **Launchers**.
 
 ## [BOCW Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) is required.
 
@@ -10,9 +10,9 @@ As of now the arsenal has reached **90%** completion. The remaining classes left
 
 ## Weapons List:
 
-Completed weapons:  59
+Completed weapons:  62
 
-Upcoming weapons:   5
+Upcoming weapons:   2
 
 Weapons written in bold are DLC weapons.
 
