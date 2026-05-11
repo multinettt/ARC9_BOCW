@@ -4,7 +4,7 @@ Welcome to the main guthib page of ARC9 BOCW. Here you can easily navigate betwe
 
 As of now the arsenal has reached **97%** completion. The remaining class left to do is **Launchers**.
 
-## [BOCW Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) is required.
+## [ARC9 Base](https://github.com/HaodongMo/ARC-9) and [BOCW Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) are required.
 
 ## Customization is limited without [BOCW Attachments](https://github.com/multinettt/ARC-9_BOCW_Attachments).
 
