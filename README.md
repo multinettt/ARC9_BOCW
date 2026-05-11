@@ -14,66 +14,34 @@ Completed weapons:  62
 
 Upcoming weapons:   2
 
-Weapons written in bold are DLC weapons.
-
-### [Assault Rifles](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- [XM4](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- [AK-47](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- [Krig 6](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- [QBZ-83](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- [FFAR 1](https://github.com/multinettt/ARC-9_BOCW_AssaultRifles)
-- **[Groza](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-- **[FARA 83](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-- **[C58](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-- **[EM2](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-- **[Grav](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-- **[Vargo 52](https://github.com/multinettt/ARC-9_BOCW_AssaultRiflesDLC)**
-
-### [Submachine Guns](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- [MP5](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- [Milano 821](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- [AK-74u](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- [KSP 45](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- [Bullfrog](https://github.com/multinettt/ARC-9_BOCW_SubmachineGuns)
-- **[MAC-10](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[LC10](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[PPSh-41](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[OTs 9](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[TEC-9](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[LAPA](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-- **[UGR](https://github.com/multinettt/ARC-9_BOCW_SubmachineGunsDLC)**
-
-### [Tactical Rifles](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
-- [Type 63](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
-- [M16](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
-- [AUG](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
-- [DMR 14](https://github.com/multinettt/ARC-9_BOCW_TacticalRifles)
-- **[CARV.2](https://github.com/multinettt/ARC-9_BOCW_TacticalRiflesDLC)**
-
-### [Light Machine Guns](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
-- [Stoner 63](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
-- [RPD](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
-- [M60](https://github.com/multinettt/ARC-9_BOCW_LightMachineGuns)
-
-### [Sniper Rifles](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
-- [Pelington 703](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
-- [LW3 - Tundra](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
-- [M82](https://github.com/multinettt/ARC-9_BOCW_SniperRifles)
-- **[ZRG 20mm](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC)**
-- **[Swiss K31](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC)**
-
-### [Pistols](https://github.com/multinettt/ARC-9_BOCW_Pistols)
-- [1911](https://github.com/multinettt/ARC-9_BOCW_Pistols)
-- [Magnum](https://github.com/multinettt/ARC-9_BOCW_Pistols)
-- [Diamatti](https://github.com/multinettt/ARC-9_BOCW_Pistols)
-- [**AMP63**](https://github.com/multinettt/ARC-9_BOCW_PistolsDLC)
-- [**Marshal**](https://github.com/multinettt/ARC-9_BOCW_PistolsDLC)
-
-### [Shotguns](https://github.com/multinettt/ARC-9_BOCW_Shotguns)
-- [Hauer 77](https://github.com/multinettt/ARC-9_BOCW_Shotguns)
-- [Gallo SA12](https://github.com/multinettt/ARC-9_BOCW_Shotguns)
-- **[Streetsweeper](https://github.com/multinettt/ARC-9_BOCW_ShotgunsDLC)**
-- **[.410 Ironhide](https://github.com/multinettt/ARC-9_BOCW_ShotgunsDLC)**
+### PRIMARY
+| [ASSAULT RIFLES](https://github.com/multinettt/ARC9_BOCW_AssaultRifles) | [SUBMACHINE GUNS](https://github.com/multinettt/ARC9_BOCW_SubmachineGuns) | [TACTICAL RIFLES](https://github.com/multinettt/ARC9_BOCW_TacticalRifles) | [LIGHT MACHINE GUNS](https://github.com/multinettt/ARC9_BOCW_LightMachineGuns) | [SNIPER RIFLES](https://github.com/multinettt/ARC-9_BOCW_SniperRifles) |
+| --- | --- | --- | --- | --- |
+| XM4 | MP5 | Type 63 | Stoner 63 | Pelington 703 |
+| AK-47 | Milano 821 | M16 | RPD | LW3 - Tundra |
+| Krig 6 | AK-74u | AUG | M60 | M82 |
+| QBZ-83 | KSP 45 | DMR 14 |
+| FFAR 1 | Bullfrog |
+| [**ASSAULT RIFLES DLC**](https://github.com/multinettt/ARC9_BOCW_AssaultRiflesDLC) | [**SUBMACHINE GUNS DLC**](https://github.com/multinettt/ARC9_BOCW_SubmachineGunsDLC) | [**TACTICAL RIFLES DLC**](https://github.com/multinettt/ARC9_BOCW_TacticalRiflesDLC) | [**LIGHT MACHINE GUNS DLC**](https://github.com/multinettt/ARC9_BOCW_LightMachineGunsDLC) | [**SNIPER RIFLES DLC**](https://github.com/multinettt/ARC-9_BOCW_SniperRiflesDLC) |
+| Groza | MAC-10 | CARV.2 | MG 82 | ZRG 20mm |
+| FARA 83 | LC10 ||| Swiss K31 |
+| C58 | PPSh-41 |
+| EM2 | OTs 9 |
+| Grav | TEC-9 |
+| Vargo 52 | LAPA |
+|| UGR |
+### SECONDARY
+| [PISTOLS](https://github.com/multinettt/ARC9_BOCW_Pistols) | [SHOTGUNS](https://github.com/multinettt/ARC9_BOCW_Shotguns) | ~~[LAUNCHERS](https://github.com/multinettt/ARC9_BOCW_Launchers)~~ | [MELEE](https://github.com/multinettt/ARC9_BOCW_Melee) | [SPECIAL](https://github.com/multinettt/ARC-9_BOCW_Special) |
+| --- | --- | --- | --- | --- |
+| 1911 | Hauer 77 | ~~Cigma 2~~ | Knife | M79 |
+| Magnum | Gallo SA12 | ~~RPG-7~~ |
+| Diamatti |
+| [**PISTOLS DLC**](https://github.com/multinettt/ARC9_BOCW_PistolsDLC) | [**SHOTGUNS DLC**](https://github.com/multinettt/ARC9_BOCW_ShotgunsDLC) |  | [**MELEE DLC**](https://github.com/multinettt/ARC9_BOCW_MeleeDLC) | [**SPECIAL DLC**](https://github.com/multinettt/ARC-9_BOCW_SpecialDLC) |
+| AMP63 | Streetsweeper || Sledgehammer & Wakizashi | R1 Shadowhunter |
+| Marshal | .410 Ironhide || E-Tool & Machete | Ballistic Knife |
+|||| Baseball Bat & Mace & Cane | Nail Gun |
+|||| Sai & Battle Axe |
+|||| Hammer and Sickle & Scythe |
 
 ## Personalization:
 
