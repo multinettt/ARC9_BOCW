@@ -31,10 +31,10 @@ Upcoming weapons:   2
 | Vargo 52 | LAPA |
 || UGR |
 ### SECONDARY
-| [PISTOLS](https://github.com/multinettt/ARC9_BOCW_Pistols) | [SHOTGUNS](https://github.com/multinettt/ARC9_BOCW_Shotguns) | ~~[LAUNCHERS](https://github.com/multinettt/ARC9_BOCW_Launchers)~~ | [MELEE](https://github.com/multinettt/ARC9_BOCW_Melee) | [SPECIAL](https://github.com/multinettt/ARC-9_BOCW_Special) |
+| [PISTOLS](https://github.com/multinettt/ARC9_BOCW_Pistols) | [SHOTGUNS](https://github.com/multinettt/ARC9_BOCW_Shotguns) | [LAUNCHERS](https://github.com/multinettt/ARC9_BOCW_Launchers) | [MELEE](https://github.com/multinettt/ARC9_BOCW_Melee) | [SPECIAL](https://github.com/multinettt/ARC-9_BOCW_Special) |
 | --- | --- | --- | --- | --- |
-| 1911 | Hauer 77 | ~~Cigma 2~~ | Knife | M79 |
-| Magnum | Gallo SA12 | ~~RPG-7~~ |
+| 1911 | Hauer 77 | Cigma 2 | Knife | M79 |
+| Magnum | Gallo SA12 | RPG-7 |
 | Diamatti |
 | [**PISTOLS DLC**](https://github.com/multinettt/ARC9_BOCW_PistolsDLC) | [**SHOTGUNS DLC**](https://github.com/multinettt/ARC9_BOCW_ShotgunsDLC) |  | [**MELEE DLC**](https://github.com/multinettt/ARC9_BOCW_MeleeDLC) | [**SPECIAL DLC**](https://github.com/multinettt/ARC-9_BOCW_SpecialDLC) |
 | AMP63 | Streetsweeper || Sledgehammer & Wakizashi | R1 Shadowhunter |
